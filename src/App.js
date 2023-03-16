@@ -11,6 +11,7 @@ function App() {
       </div>
       <div className='contenedor-principal'>
         
+        
       </div>
     </div>
   );
